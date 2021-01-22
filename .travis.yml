@@ -103,4 +103,4 @@ jobs:
         provider: heroku
         api_key: '$HEROKU_AUTH_TOKEN'
         app:
-          mac/bug/reduce-slug-size-part-deux: benhalpern-community
+          mac/bug/add-libv8-to-slugignore: benhalpern-community
